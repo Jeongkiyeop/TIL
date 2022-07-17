@@ -4,5 +4,5 @@
 + SNS사이트의 API로 예를들면 키보드의 어떤 버튼을 누를 경우 업로드, 팔로잉 등 수행 할 수 있다. 프로그램, 코드들끼리 서로 소통하기 위해 만들어진 것이 API이다.
 
 
-
-[API_CODE](WEB/API/API_CODE.md)
+## <br>
++ [API_CODE](./API/API_CODE.md)
