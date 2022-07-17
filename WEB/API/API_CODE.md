@@ -35,7 +35,7 @@
 </html>
 ```
 
-## 파이썬
++ 파이썬
 ``` python
 @app.route('/map')
 def map():
