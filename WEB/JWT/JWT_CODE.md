@@ -17,7 +17,7 @@ $.ajax({
         if (response['result'] == 'success') {
             $.cookie('mytoken', response['token'], {path: '/'});
             window.location.href = "/main/" + response['userhash'] 
-            # 당시 닉네임을 이용한 브라우저 이동을 했기에 유저닉네임에도 해쉬값을 주었음 
+            #이 프로젝트는 닉네임을 이용한 브라우저 이동을 했기에 유저닉네임에도 해쉬함수를 사용하였음 
 
         } else {
             alert(response['msg'])
