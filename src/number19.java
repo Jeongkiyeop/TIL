@@ -1,3 +1,4 @@
+// n값 만큼 문자열(수박) 추출하기
 public class number19 {
     public String number19(int n) {
         String answer = "";
@@ -8,6 +9,7 @@ public class number19 {
         return answer.substring(0,n);
     }
 
+//주어진 예제, 출력용
     public static void main(String[] args) {
         number19 sol = new number19();
         int n = 3;
