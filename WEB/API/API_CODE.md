@@ -1,4 +1,4 @@
-## API
+## API 네이버 지도 API 사용해보기
 
 ```html
 <!DOCTYPE html>
