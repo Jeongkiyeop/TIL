@@ -7,7 +7,7 @@
 <br>
 
 ## WEB
-+ [JWT](./WEB/JWT.md)
++ [JWT](WEB/JWT/JWT.md)
 + [API](./WEB/API.md)
 
 
