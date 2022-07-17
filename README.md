@@ -1,16 +1,14 @@
 # TIL   
         Today I Learned
 
-+ [WeekDiary](/DIARY.md)
-<br>
-<br>
++ [Week Diary](/DIARY.md)
 
-## WEB
+### WEB
 + [JWT](WEB/JWT/JWT.md)
 + [API](WEB/API/API.md)
 
 
-## ALGORITHM
+### ALGORITHM
 + [가운데 글자 가져오기](Algorithm/number3.java)
 + [음양 더하기](Algorithm/number7.java)
 + [x만큼 간격이 있는 n개의 숫자](Algorithm/number11.java)
