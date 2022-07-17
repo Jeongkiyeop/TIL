@@ -1,8 +1,5 @@
 # TIL   
-        오늘 배운 내용 정리하기
-
-        
-
+        Today I Learned
 <br>
 <br>
 
@@ -11,9 +8,7 @@
 + [API](WEB/API/API.md)
 
 
-
-
-## 알고리즘 코딩 테스트
+## ALGORITHM
 + [가운데 글자 가져오기](src/number3.java)
 + [음양 더하기](src/number7.java)
 + [x만큼 간격이 있는 n개의 숫자](src/number11.java)
@@ -24,5 +19,3 @@
 
 
 
-
-# 시작은 미약하였으나 끝은 창대하리라
