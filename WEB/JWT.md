@@ -1,5 +1,7 @@
  JWT 서비스를 사용하는 사용자들은 로그인시 토큰을 받게된다. 
- 이때 토큰은 header, payload, verify signature로 구분되는데 먼저 payload 같은 경우 Base64(?)로 디코딩시 JSON 형식으로 된 많은 정보가 있다. 
+ <br>
+ 이때 토큰은 header, payload, verify signature로 구분되는데 먼저 payload 같은 경우 Base64(?)로 디코딩시 JSON 형식으로 된 많은 정보가 있다.
+ <br>
 누가 누구에게 발급 했는지, 언제까지 유효한지, 공개 가능한 범위 등 서비스 측에서 원하는 대로 담을 수 있다.
 이러한 것들을 담은 사용자의 정보를 'Claim'이라고 한다.
 
