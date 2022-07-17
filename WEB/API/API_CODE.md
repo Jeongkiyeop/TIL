@@ -10,7 +10,7 @@
               content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
         <title>간단한 지도 표시하기</title>
         <script type="text/javascript"
-                src="https://openapi.map.naver.com/openapi/v3/maps.js?ncpClientId=YOUR_CLIENT_ID"></script>    // 내 클라이언트 id 넣기
+                src="https://openapi.map.naver.com/openapi/v3/maps.js?ncpClientId=YOUR_CLIENT_ID"></script>    // map이란 id를 스크립트와 연결 해줌. 내 클라이언트 id 넣기
         <script src=" https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 
         <style>
