@@ -17,4 +17,4 @@ header, payload 그리고 서버만이 가지고 있는 비밀키를 알고리�
 그래서 생각 해낸 방법이 access 토큰과 refresh 토큰인데 access토큰은 몇분, 몇시간 유효기간을 주고 refresh 토큰은 2주, 더 길게 유효기간을 준다. 이때 refresh 토큰은 세션 방식처럼 데이터베이스에도 저장을 한다. 사용자의 access토큰의 수명이 다한다면 refresh 토큰을 서버에 보내고 서버는 데이터베이스에 저장된 값을 대조 해보고 일치 한다면 다시 access토큰을 부여 하는 방식이 있다.
 
 ## <br>
-+ [JWT_CODE](./JWT/JWT_CODE.md)
++ [JWT_CODE](./JWT_CODE.md)
