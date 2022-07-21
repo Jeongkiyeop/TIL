@@ -1,10 +1,12 @@
+import java.util.UUID;
 public class Taxi extends public_transport {
 
 
-    public void taxicreate(int number) {
-        this.number = number;
+    public void taxicreate(String taxinumber) {
+        taxinumber = UUID.randomUUID().toString();
+        this.number = taxinumber;
         this.taxifare = taxifare;
-        System.out.println(number + "번 택시");
+        System.out.println(taxinumber + "번 택시");
         System.out.println("주유량 " + oil);
         System.out.println(currentstatus);
     }

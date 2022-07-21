@@ -1,5 +1,7 @@
+
 public class public_transport {
-    int number;
+    String number;
+
     int getpassenger;
     int currentpassenger;
     int busfare = 1000;

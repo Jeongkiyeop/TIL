@@ -1,8 +1,12 @@
+import java.util.UUID;
+
+import java.util.UUID;
 public class Bus extends public_transport {
 
-    public void BusCreate(int busnumber){
+    public void BusCreate(String busnumber){
+        busnumber = UUID.randomUUID().toString();
         this.number = busnumber;
-        System.out.println(busnumber + "번 버스");
+        System.out.println(this.number + "번 버스");
     }
 
     public void getpassenger(int getpassenger){
