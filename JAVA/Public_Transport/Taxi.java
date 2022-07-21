@@ -58,4 +58,14 @@ public class Taxi extends public_transport {
             System.out.println("현재 상태 "+taxistatus[0]);
         }
     }
+
+    public void speedup(int speed){
+        this.speed += speed;
+        System.out.println("현재 속도 " + this.speed);
+    }
+
+    public void speeddown(int speed){
+        this.speed -= speed;
+        System.out.println("현재 속도 " + this.speed);
+    }
 }

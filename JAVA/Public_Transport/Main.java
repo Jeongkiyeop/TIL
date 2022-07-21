@@ -39,6 +39,15 @@ public class Main {
         bus1.useoil(55);
 
         System.out.println("");
+        System.out.println("---------10 속도 상승---------");
+        bus1.speedup(10);
+
+        System.out.println("");
+        System.out.println("---------4 속도 감소---------");
+        bus1.speeddown(4);
+
+
+        System.out.println("");
         System.out.println("");
 
         System.out.println("------------택시 생성------------");
@@ -79,6 +88,14 @@ public class Main {
         System.out.println("");
         System.out.println("---------택시 상태---------");
         taxi1.taxistatus();
+
+        System.out.println("");
+        System.out.println("---------20 속도 상승---------");
+        taxi1.speedup(20);
+
+        System.out.println("");
+        System.out.println("---------15 속도 감소---------");
+        taxi1.speeddown(15);
     }
 
 }
