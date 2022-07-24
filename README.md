@@ -1,8 +1,3 @@
-# TIL   
-        Today I Learned
-
-+ [WEEK DIARY](/WEEKDIARY.md)
-+ [TODAY DIARY](/TODAYDIARY.md)
 
 ### WEB
 + [JWT](WEB/JWT/JWT.md)
