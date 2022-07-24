@@ -9,7 +9,9 @@
 + [API](WEB/API/API.md)
 
 ### JAVA
-+ [CLASS]
++ [대중교통 버스,택시 클래스만들기](JAVA/Public_Transport)
++ [SPRING CRUD사용해서 PERSON엔티티 만들기](JAVA/week02)
++ [SPRING Controller, Service, Repository 사용해보기](JAVA/week03)
 
 ### ALGORITHM
 + [가운데 글자 가져오기](Algorithm/number3.java)
