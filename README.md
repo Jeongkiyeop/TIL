@@ -9,7 +9,7 @@
 + [SPRING Controller, Service, Repository 사용해보기](JAVA/week03)
 
 ### SPRING
-+ [Spring 게시판 CRUD 예제](Spring_Project_week02)
++ [Spring 게시판 CRUD 예제](SPRING/Spring_Project_week02)
 
 ### ALGORITHM
 + [가운데 글자 가져오기](Algorithm/number3.java)
